@@ -16,6 +16,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -27,6 +28,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
@@ -40,6 +42,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -81,5 +84,6 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
