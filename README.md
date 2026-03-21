@@ -120,4 +120,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
