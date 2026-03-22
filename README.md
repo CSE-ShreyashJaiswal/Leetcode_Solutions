@@ -79,6 +79,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
