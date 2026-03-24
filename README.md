@@ -82,6 +82,7 @@
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -154,6 +155,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -165,6 +167,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
