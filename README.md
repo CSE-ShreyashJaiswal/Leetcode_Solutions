@@ -77,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0051-n-queens) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
@@ -152,6 +154,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Database
@@ -224,6 +227,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
