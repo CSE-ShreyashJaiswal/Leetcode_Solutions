@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Geometry
 |  |
 | ------- |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
