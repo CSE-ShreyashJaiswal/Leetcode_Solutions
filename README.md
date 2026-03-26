@@ -226,6 +226,7 @@
 | ------- |
 | [0046-permutations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 ## Simulation
 |  |
