@@ -83,6 +83,7 @@
 | [0046-permutations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -123,6 +124,7 @@
 | [0045-jump-game-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Database
