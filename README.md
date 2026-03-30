@@ -122,6 +122,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -226,6 +227,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
