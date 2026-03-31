@@ -39,6 +39,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -73,6 +74,7 @@
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -97,6 +99,7 @@
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -141,6 +144,7 @@
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -182,6 +186,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -192,6 +197,7 @@
 | [0174-dungeon-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -204,6 +210,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -286,6 +293,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
