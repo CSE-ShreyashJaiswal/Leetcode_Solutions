@@ -90,6 +90,7 @@
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -135,6 +136,7 @@
 | [0063-unique-paths-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
