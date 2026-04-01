@@ -145,6 +145,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -157,6 +158,7 @@
 | [0127-word-ladder](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
