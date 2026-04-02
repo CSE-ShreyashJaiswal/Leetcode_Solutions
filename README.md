@@ -136,6 +136,7 @@
 | [0063-unique-paths-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -159,6 +160,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
