@@ -230,6 +230,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0185-department-top-three-salaries) |
 | [1148-article-views-i](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
