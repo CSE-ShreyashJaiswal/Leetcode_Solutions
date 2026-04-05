@@ -233,6 +233,7 @@
 | [0180-consecutive-numbers](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0185-department-top-three-salaries) |
 | [1148-article-views-i](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1193-monthly-transactions-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1667-fix-names-in-a-table) |
 ## Topological Sort
