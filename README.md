@@ -35,6 +35,7 @@
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -178,6 +179,7 @@
 | [0131-palindrome-partitioning](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -185,6 +187,7 @@
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -367,4 +370,8 @@
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
