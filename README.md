@@ -99,6 +99,7 @@
 | [0213-house-robber-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -121,6 +122,7 @@
 | [0127-word-ladder](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@
 | [0099-recover-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -260,6 +263,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -284,6 +288,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -324,6 +329,7 @@
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Memoization
