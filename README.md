@@ -119,6 +119,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1463-cherry-pickup-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
 | ------- |
@@ -394,4 +396,5 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
