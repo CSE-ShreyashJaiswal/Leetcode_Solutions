@@ -117,6 +117,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1463-cherry-pickup-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -133,6 +134,7 @@
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
