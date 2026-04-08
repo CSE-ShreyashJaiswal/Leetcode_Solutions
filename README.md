@@ -41,6 +41,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -76,6 +77,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -230,6 +233,7 @@
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
