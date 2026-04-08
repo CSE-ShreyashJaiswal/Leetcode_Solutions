@@ -43,6 +43,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -80,6 +81,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -117,6 +119,7 @@
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -138,6 +141,7 @@
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
@@ -202,6 +206,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 ## Design
 |  |
 | ------- |
@@ -229,6 +234,7 @@
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -296,6 +302,7 @@
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
