@@ -129,6 +129,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
+| [1390-four-divisors](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1463-cherry-pickup-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Hash Table
@@ -330,6 +331,7 @@
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1390-four-divisors](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Geometry
 |  |
