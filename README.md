@@ -47,6 +47,7 @@
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [1192-critical-connections-in-a-network](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -256,6 +257,7 @@
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -432,4 +434,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0399-evaluate-division) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
