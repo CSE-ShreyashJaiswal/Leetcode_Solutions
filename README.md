@@ -127,6 +127,7 @@
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
+| [0495-teemo-attacking](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
@@ -380,6 +381,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
