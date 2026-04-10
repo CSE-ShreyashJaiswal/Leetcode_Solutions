@@ -245,6 +245,7 @@
 | [0547-number-of-provinces](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -258,6 +259,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1791-find-center-of-star-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
