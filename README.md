@@ -114,6 +114,7 @@
 | [0213-house-robber-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
