@@ -138,6 +138,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1390-four-divisors](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1463-cherry-pickup-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -329,6 +330,7 @@
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quickselect
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Backtracking
 |  |
 | ------- |
