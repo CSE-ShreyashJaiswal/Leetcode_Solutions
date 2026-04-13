@@ -125,6 +125,7 @@
 | [0399-evaluate-division](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
@@ -195,6 +196,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -326,6 +328,7 @@
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
@@ -371,6 +374,7 @@
 | [0045-jump-game-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Backtracking
