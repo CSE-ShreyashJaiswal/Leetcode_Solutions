@@ -114,6 +114,7 @@
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -169,6 +170,7 @@
 | [0190-reverse-bits](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -461,4 +465,20 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
