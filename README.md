@@ -239,6 +239,7 @@
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0715-range-module](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0715-range-module) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -478,6 +479,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0715-range-module) |
 ## Sweep Line
 |  |
 | ------- |
@@ -487,6 +489,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0715-range-module) |
 ## Merge Sort
 |  |
 | ------- |
