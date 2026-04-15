@@ -214,6 +214,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -402,11 +404,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [1688-count-of-matches-in-tournament](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
