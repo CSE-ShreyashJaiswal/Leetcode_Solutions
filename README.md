@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -367,6 +369,7 @@
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
