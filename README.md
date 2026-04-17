@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
@@ -226,6 +227,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -372,6 +374,7 @@
 | [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -442,6 +445,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
