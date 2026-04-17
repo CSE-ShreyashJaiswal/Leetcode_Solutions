@@ -128,6 +128,7 @@
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -162,6 +163,7 @@
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
@@ -248,6 +250,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0715-range-module](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
@@ -381,6 +384,7 @@
 | [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1390-four-divisors) |
@@ -517,4 +521,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
