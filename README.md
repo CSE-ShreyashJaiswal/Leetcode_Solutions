@@ -110,6 +110,7 @@
 | [0118-pascals-triangle](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -155,6 +156,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0133-clone-graph) |
+| [0149-max-points-on-a-line](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -369,6 +371,7 @@
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -378,6 +381,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
