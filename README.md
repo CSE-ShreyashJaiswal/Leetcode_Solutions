@@ -218,6 +218,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0097-interleaving-string) |
