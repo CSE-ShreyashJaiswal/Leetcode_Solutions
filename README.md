@@ -140,6 +140,7 @@
 | [0495-teemo-attacking](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -167,6 +168,7 @@
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
+| [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0895-maximum-frequency-stack](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
@@ -252,6 +254,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0715-range-module](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 ## Binary Search Tree
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 ## Bitmask
 |  |
 | ------- |
@@ -525,4 +529,8 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
