@@ -174,6 +174,7 @@
 | [0705-design-hashset](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0895-maximum-frequency-stack](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0997-find-the-town-judge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
@@ -221,6 +222,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0931-minimum-falling-path-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -250,6 +252,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0721-accounts-merge) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 ## Design
 |  |
