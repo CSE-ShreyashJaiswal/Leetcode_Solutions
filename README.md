@@ -85,6 +85,7 @@
 | [0207-course-schedule](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0399-evaluate-division) |
@@ -240,6 +241,7 @@
 | [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -427,6 +429,7 @@
 | [0052-n-queens-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 ## Simulation
 |  |
