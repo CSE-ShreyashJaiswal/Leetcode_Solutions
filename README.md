@@ -336,6 +336,7 @@
 | [1193-monthly-transactions-i](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1193-monthly-transactions-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1667-fix-names-in-a-table) |
+| [1934-confirmation-rate](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/1934-confirmation-rate) |
 ## Topological Sort
 |  |
 | ------- |
