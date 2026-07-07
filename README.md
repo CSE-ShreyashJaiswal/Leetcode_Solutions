@@ -395,6 +395,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
