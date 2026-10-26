@@ -250,6 +250,7 @@
 | [0389-find-the-difference](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0399-evaluate-division) |
+| [0420-strong-password-checker](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0420-strong-password-checker) |
 | [0516-longest-palindromic-subsequence](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0648-replace-words) |
@@ -350,6 +351,7 @@
 | [0218-the-skyline-problem](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0420-strong-password-checker](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -425,6 +427,7 @@
 | [0045-jump-game-ii](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/CSE-ShreyashJaiswal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
